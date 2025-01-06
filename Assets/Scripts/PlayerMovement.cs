@@ -117,7 +117,7 @@ public class PlayerMovement : MonoBehaviour
             //else { movement.x = 0; }
 
             movement = movement.normalized;
-            rb.velocity = movement * movementSpeed;
+            rb.linearVelocity = movement * movementSpeed;
 
             //if (movement == Vector3.zero) { rb.velocity = new Vector3(0,0,0); }
             //movement = new Vector3(0f, 0f, 0f);  //this vector holds the player movement at any time
@@ -362,7 +362,7 @@ public class PlayerMovement : MonoBehaviour
         boxCollider.enabled = false;
         controllEnabled = false;
         StopAllCoroutines();
-        rb.velocity = Vector3.zero;
+        rb.linearVelocity = Vector3.zero;
         animator.SetTrigger("isDead");
         gameActiveScreen.SetActive(false);
         gameOverScreen.SetActive(true);
@@ -383,7 +383,7 @@ public class PlayerMovement : MonoBehaviour
         isLosingHealth = true;
         controllEnabled = false;
 
-        rb.velocity = Vector3.zero;
+        rb.linearVelocity = Vector3.zero;
 
 
         AnimationClip healthDownClip = GetAnimationClipByName("Seal Hit");

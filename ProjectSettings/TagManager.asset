@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JumpMarker
+  - Wall
+  - Collectible
+  - Node
+  - Spawner
+  - Enemy
+  - Floaty
+  - Pathfinder
+  - HealthUI
+  - IceyWeather
+  - IceBlock
+  - Bucky
+  - HealthUP
+  - SpeedUP
+  - PowerupSpawner
+  - Game Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Nodes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2699821071
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

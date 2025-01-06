@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638717719008105060
-    m_Hash: 4091465724
-=======
-      ticks: 638717601618678359
+      ticks: 638717787245534125
     m_Hash: 2514375679
->>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: G:/WORKREPO/StreakRepo/Repo/STREAK/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638717719008115070
-    m_Hash: 1103088771
-=======
-      ticks: 638717602616531137
-    m_Hash: 292403888
->>>>>>> Stashed changes
+      ticks: 638717787298650153
+    m_Hash: 3380452042
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -53,7 +43,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.2.3-preview
     - 1.2.4-preview
     - 1.2.6
@@ -129,8 +118,6 @@ m_ResolvedPackages:
     - 2.4.4
     - 2.5.1
     - 2.5.2
-=======
->>>>>>> Stashed changes
     - 2.6.0
     compatible:
     - 2.6.0
@@ -164,15 +151,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638684801569990000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.6/manual/index.html
   hasRepository: 1
   repository:
@@ -279,7 +260,6 @@ m_ResolvedPackages:
     version: 10.1.4
   - name: com.unity.2d.common
     version: 9.0.7
-<<<<<<< Updated upstream
   - name: com.unity.burst
     version: 1.8.18
   - name: com.unity.mathematics
@@ -290,46 +270,22 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.3.2
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
-  - name: com.unity.collections
-    version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
->>>>>>> Stashed changes
   - name: com.unity.test-framework
     version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
-<<<<<<< Updated upstream
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
-=======
->>>>>>> Stashed changes
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.2d.pixel-perfect
@@ -402,18 +358,13 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.2
     - 1.0.6
     - 1.0.8
@@ -462,12 +413,6 @@ m_ResolvedPackages:
     - 3.0.31
     - 3.0.34
     recommended: 3.0.34
-=======
-    - 3.0.31
-    compatible:
-    - 3.0.31
-    recommended: 3.0.31
->>>>>>> Stashed changes
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -486,15 +431,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638548308080000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
@@ -538,18 +477,13 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.2
     - 1.0.3
     - 1.0.4
@@ -573,8 +507,6 @@ m_ResolvedPackages:
     - 2.0.18
     - 2.0.20
     - 2.0.21
-=======
->>>>>>> Stashed changes
     - 2.0.22
     compatible:
     - 2.0.22
@@ -603,15 +535,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638326061910000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
@@ -664,15 +590,12 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.2.1
     - 0.3.0
     - 0.4.0
     - 1.0.0-pre.1
     - 1.0.0-pre.2
     - 1.0.0-pre.3
-=======
->>>>>>> Stashed changes
     - 1.0.0
     compatible:
     - 1.0.0
@@ -750,16 +673,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: Test framework for running Edit mode and Play mode tests in Unity.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.0.4-preview
     - 0.0.29-preview
     - 1.0.0
@@ -819,11 +737,6 @@ m_ResolvedPackages:
     - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
-=======
-    - 1.4.5
-    compatible:
-    - 1.4.5
->>>>>>> Stashed changes
     recommended: 1.4.5
     deprecated: []
   dependencies:
@@ -853,15 +766,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638575054880000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/index.html
   hasRepository: 1
   repository:
@@ -929,17 +836,12 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.2.0
     - 1.2.1
     - 1.2.2
@@ -1025,24 +927,18 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
-=======
->>>>>>> Stashed changes
     - 1.8.7
     compatible:
     - 1.8.7
     recommended: 1.8.7
     deprecated: []
   dependencies:
-<<<<<<< Updated upstream
   - name: com.unity.modules.audio
     version: 1.0.0
-=======
->>>>>>> Stashed changes
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
@@ -1050,17 +946,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
-=======
-  - name: com.unity.modules.audio
-    version: 1.0.0
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.director
-    version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
->>>>>>> Stashed changes
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.modules.particlesystem
@@ -1081,15 +966,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638524833900000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
   hasRepository: 1
   repository:
@@ -1149,7 +1028,6 @@ m_ResolvedPackages:
   versions:
     all:
     - 2.0.0
-<<<<<<< Updated upstream
     - 3.0.0-exp.1
     - 3.0.0-exp.3
     - 3.0.0-exp.4
@@ -1158,10 +1036,6 @@ m_ResolvedPackages:
     - 3.0.0-exp.1
     - 3.0.0-exp.3
     - 3.0.0-exp.4
-=======
-    compatible:
-    - 2.0.0
->>>>>>> Stashed changes
     recommended: 2.0.0
     deprecated: []
   dependencies:
@@ -1253,7 +1127,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.5.0
     - 1.5.1-pre.3
     - 1.5.1-pre.5
@@ -1274,8 +1147,6 @@ m_ResolvedPackages:
     - 1.9.1
     - 1.9.2
     - 1.9.4
-=======
->>>>>>> Stashed changes
     - 1.9.5
     compatible:
     - 1.9.5
@@ -1306,15 +1177,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638659692270900000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3782,17 +3647,12 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Libraries
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: A custom version of NUnit used by Unity Test Framework. Based on NUnit
     version 3.5 and works with all platforms, il2cpp and Mono AOT.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.1.5-preview
     - 0.1.6-preview
     - 0.1.9-preview
@@ -3802,8 +3662,6 @@ m_ResolvedPackages:
     - 2.0.2
     - 2.0.3
     - 2.0.4
-=======
->>>>>>> Stashed changes
     - 2.0.5
     compatible:
     - 2.0.5
@@ -3825,15 +3683,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638236642220000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ext.nunit@2.0/manual/index.html
   hasRepository: 1
   repository:
@@ -3880,7 +3732,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.15-preview.1
     - 1.0.15-preview.2
     - 1.0.15-preview.3
@@ -4010,8 +3861,6 @@ m_ResolvedPackages:
     - 10.1.1
     - 10.1.2
     - 10.1.3
-=======
->>>>>>> Stashed changes
     - 10.1.4
     compatible:
     - 10.1.4
@@ -4031,7 +3880,6 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.common
     version: 9.0.7
-<<<<<<< Updated upstream
   - name: com.unity.burst
     version: 1.8.18
   - name: com.unity.mathematics
@@ -4042,46 +3890,22 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.3.2
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
-  - name: com.unity.collections
-    version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
->>>>>>> Stashed changes
   - name: com.unity.test-framework
     version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
-<<<<<<< Updated upstream
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
-=======
->>>>>>> Stashed changes
   - name: com.unity.test-framework.performance
     version: 3.0.3
   keywords:
@@ -4097,15 +3921,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638654459075740000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@10.1/manual/index.html
   hasRepository: 1
   repository:
@@ -4172,7 +3990,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.0-preview
     - 1.0.1-preview
     - 2.0.2
@@ -4189,8 +4006,6 @@ m_ResolvedPackages:
     - 5.0.0
     - 5.0.1
     - 5.0.2
-=======
->>>>>>> Stashed changes
     - 5.0.3
     compatible:
     - 5.0.3
@@ -4213,15 +4028,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638023910590000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -4262,18 +4071,13 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 2D
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
     file format. The ScriptedImporter is currently targeted for users who wants to
     create multi Sprite character animation using Unity 2D Animation Package.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.0-preview.1
     - 1.0.0-preview.2
     - 1.0.0-preview.3
@@ -4354,9 +4158,6 @@ m_ResolvedPackages:
     - 9.0.2
     - 9.0.3
     - 10.0.0
-=======
-    - 9.0.3
->>>>>>> Stashed changes
     compatible:
     - 9.0.3
     recommended: 9.0.3
@@ -4369,7 +4170,6 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.common
     version: 9.0.7
-<<<<<<< Updated upstream
   - name: com.unity.burst
     version: 1.8.18
   - name: com.unity.mathematics
@@ -4380,31 +4180,14 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.3.2
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
->>>>>>> Stashed changes
   keywords:
   - 2d
   - psdimporter
@@ -4419,15 +4202,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638489453630000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@9.0/manual/index.html
   hasRepository: 1
   repository:
@@ -4547,7 +4324,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.10-preview.2
     - 1.0.11-preview
     - 1.0.12-preview
@@ -4637,15 +4413,12 @@ m_ResolvedPackages:
     - 10.0.4
     - 10.0.5
     - 10.0.6
-=======
->>>>>>> Stashed changes
     - 10.0.7
     compatible:
     - 10.0.7
     recommended: 10.0.7
     deprecated: []
   dependencies:
-<<<<<<< Updated upstream
   - name: com.unity.2d.common
     version: 9.0.7
   - name: com.unity.mathematics
@@ -4665,40 +4438,14 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.mathematics
-    version: 1.1.0
-  - name: com.unity.2d.common
-    version: 9.0.7
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.2d.common
-    version: 9.0.7
-  - name: com.unity.2d.sprite
-    version: 1.0.0
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
->>>>>>> Stashed changes
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -4718,15 +4465,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638654459104040000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@10.0/manual/index.html
   hasRepository: 1
   repository:
@@ -4874,7 +4615,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.5.0-preview
     - 1.6.0-preview.1
     - 1.6.1-preview
@@ -4915,15 +4655,11 @@ m_ResolvedPackages:
     - 4.0.2
     - 4.1.0
     - 4.2.1
-=======
-    - 4.1.0
->>>>>>> Stashed changes
     compatible:
     - 4.1.0
     recommended: 4.1.0
     deprecated: []
   dependencies:
-<<<<<<< Updated upstream
   - name: com.unity.2d.tilemap
     version: 1.0.0
   - name: com.unity.modules.tilemap
@@ -4933,24 +4669,10 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.2d.tilemap
     version: 1.0.0
-=======
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
->>>>>>> Stashed changes
   - name: com.unity.modules.tilemap
     version: 1.0.0
   - name: com.unity.modules.physics2d
     version: 1.0.0
-<<<<<<< Updated upstream
-=======
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -4973,15 +4695,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638654459126220000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@4.1/manual/index.html
   hasRepository: 1
   repository:
@@ -5031,7 +4747,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.0-pre.1
     - 1.0.0-pre.2
     - 1.0.0-pre.3
@@ -5047,31 +4762,20 @@ m_ResolvedPackages:
     - 1.1.6
     - 1.1.7
     - 1.2.0
-=======
-    - 1.1.7
->>>>>>> Stashed changes
     compatible:
     - 1.1.7
     recommended: 1.1.7
     deprecated: []
   dependencies:
-<<<<<<< Updated upstream
   - name: com.unity.2d.common
     version: 6.0.6
   - name: com.unity.2d.sprite
     version: 1.0.0
-=======
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.2d.common
-    version: 6.0.6
->>>>>>> Stashed changes
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.modules.animation
     version: 1.0.0
   resolvedDependencies:
-<<<<<<< Updated upstream
   - name: com.unity.2d.common
     version: 9.0.7
   - name: com.unity.burst
@@ -5084,33 +4788,14 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.2d.common
-    version: 9.0.7
-  - name: com.unity.mathematics
-    version: 1.3.2
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
->>>>>>> Stashed changes
   keywords:
   - 2d
   - Aseprite
@@ -5127,15 +4812,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638689949786490000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.1/manual/index.html
   hasRepository: 1
   repository:
@@ -5188,7 +4867,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 1.0.9-preview.1
     - 1.0.9-preview.2
     - 1.0.10-preview
@@ -5248,24 +4926,18 @@ m_ResolvedPackages:
     - 9.0.4
     - 9.0.5
     - 9.0.6
-=======
->>>>>>> Stashed changes
     - 9.0.7
     compatible:
     - 9.0.7
     recommended: 9.0.7
     deprecated: []
   dependencies:
-<<<<<<< Updated upstream
   - name: com.unity.burst
     version: 1.8.4
-=======
->>>>>>> Stashed changes
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
     version: 1.1.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.modules.uielements
@@ -5281,38 +4953,14 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-=======
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.4
-  resolvedDependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.3.2
->>>>>>> Stashed changes
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
-=======
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.18
->>>>>>> Stashed changes
   keywords:
   - 2d
   registry:
@@ -5325,15 +4973,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638654459039420000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@9.0/manual/index.html
   hasRepository: 1
   repository:
@@ -5377,17 +5019,12 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: Unity's C# SIMD math library providing vector types and math functions
     with a shader like syntax.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.0.12-preview.2
     - 0.0.12-preview.5
     - 0.0.12-preview.8
@@ -5406,8 +5043,6 @@ m_ResolvedPackages:
     - 1.2.5
     - 1.2.6
     - 1.3.1
-=======
->>>>>>> Stashed changes
     - 1.3.2
     compatible:
     - 1.3.2
@@ -5427,15 +5062,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638409134840000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
   hasRepository: 1
   repository:
@@ -5485,7 +5114,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.0.9-preview.1
     - 0.0.9-preview.2
     - 0.0.9-preview.3
@@ -5555,8 +5183,6 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.5.0-exp.1
     - 2.5.0-pre.2
-=======
->>>>>>> Stashed changes
     - 2.5.1
     compatible:
     - 2.5.1
@@ -5565,17 +5191,10 @@ m_ResolvedPackages:
   dependencies:
   - name: com.unity.burst
     version: 1.8.17
-<<<<<<< Updated upstream
   - name: com.unity.test-framework
     version: 1.4.5
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
-=======
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.test-framework
-    version: 1.4.5
->>>>>>> Stashed changes
   - name: com.unity.test-framework.performance
     version: 3.0.3
   resolvedDependencies:
@@ -5585,22 +5204,14 @@ m_ResolvedPackages:
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-<<<<<<< Updated upstream
-=======
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
->>>>>>> Stashed changes
   - name: com.unity.test-framework
     version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
     version: 1.0.0
-<<<<<<< Updated upstream
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
-=======
->>>>>>> Stashed changes
   - name: com.unity.test-framework.performance
     version: 3.0.3
   keywords:
@@ -5617,15 +5228,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638621282722800000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collections@2.5/manual/index.html
   hasRepository: 1
   repository:
@@ -5675,7 +5280,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.2.4-preview.5
     - 0.2.4-preview.7
     - 0.2.4-preview.11
@@ -5808,8 +5412,6 @@ m_ResolvedPackages:
     - 1.8.15
     - 1.8.16
     - 1.8.17
-=======
->>>>>>> Stashed changes
     - 1.8.18
     compatible:
     - 1.8.18
@@ -5836,15 +5438,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638622972693870000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
@@ -5909,15 +5505,12 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.1.6-preview.2
     - 1.0.0-preview.1
     - 1.10.0-preview.1
     - 1.10.1-preview.1
     - 1.10.1
     - 1.10.2
-=======
->>>>>>> Stashed changes
     - 1.11.4
     compatible:
     - 1.11.4
@@ -5936,15 +5529,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637852971930000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -5985,17 +5572,12 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-<<<<<<< Updated upstream
   type: assets
-=======
-  type: 
->>>>>>> Stashed changes
   description: Package that extends Unity Test Framework package. Adds performance
     testing capabilities and collects configuration metadata.
   errors: []
   versions:
     all:
-<<<<<<< Updated upstream
     - 0.1.27-preview
     - 0.1.29-preview
     - 0.1.31-preview
@@ -6046,8 +5628,6 @@ m_ResolvedPackages:
     - 3.0.0-pre.2
     - 3.0.1
     - 3.0.2
-=======
->>>>>>> Stashed changes
     - 3.0.3
     compatible:
     - 3.0.3
@@ -6080,15 +5660,9 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-<<<<<<< Updated upstream
     licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638301960470000000
-=======
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
->>>>>>> Stashed changes
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.0/manual/index.html
   hasRepository: 1
   repository:

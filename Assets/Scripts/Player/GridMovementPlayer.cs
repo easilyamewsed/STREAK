@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class GridMovementPlayer : MonoBehaviour
 {
-    [SerializeField] private bool isRepeatedMovement = false;
+    [SerializeField] private bool isRepeatedMovement = true;
     // Time in seconds to move between one grid position and the next.
-    [SerializeField] private float moveDuration = 0.1f;
+    [SerializeField] private float moveDuration = 0.2f;
     // The size of the grid
     [SerializeField] private float gridSize = 1f;
 

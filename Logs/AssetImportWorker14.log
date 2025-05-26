@@ -1,0 +1,678 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 32720 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+F:\unity\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker14
+-projectPath
+G:/WORKREPO/StreakRepo/Repo/STREAK
+-logFile
+Logs/AssetImportWorker14.log
+-srvPort
+63110
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: G:/WORKREPO/StreakRepo/Repo/STREAK
+G:/WORKREPO/StreakRepo/Repo/STREAK
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [51484]  Target information:
+
+Player connection [51484]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 287930016 [EditorId] 287930016 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7MIUTJP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [51484]  * "[IP] 192.168.50.160 [Port] 0 [Flags] 2 [Guid] 287930016 [EditorId] 287930016 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7MIUTJP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [51484] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [51484] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 7.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path F:/unity/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/WORKREPO/StreakRepo/Repo/STREAK/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.7283
+Initialize mono
+Mono path[0] = 'F:/unity/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'F:/unity/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'F:/unity/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56776
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/unity/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: F:/unity/6000.0.32f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: F:/unity/6000.0.32f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.011648 seconds.
+- Loaded All Assemblies, in  0.882 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 572 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.374 seconds
+Domain Reload Profiling: 2255ms
+	BeginReloadAssembly (294ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (90ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (361ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (352ms)
+			TypeCache.Refresh (350ms)
+				TypeCache.ScanAssembly (324ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1375ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1283ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (824ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (227ms)
+			ProcessInitializeOnLoadMethodAttributes (127ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.425 seconds
+Refreshing native plugins compatible for Editor in 3.53 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.244 seconds
+Domain Reload Profiling: 2666ms
+	BeginReloadAssembly (334ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (96ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (874ms)
+		LoadAssemblies (639ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (440ms)
+			TypeCache.Refresh (322ms)
+				TypeCache.ScanAssembly (292ms)
+			BuildScriptInfoCaches (102ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1245ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1023ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (197ms)
+			ProcessInitializeOnLoadAttributes (705ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 5.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4358 unused Assets / (1.0 MB). Loaded Objects now: 4866.
+Memory consumption went from 94.3 MB to 93.3 MB.
+Total: 17.987600 ms (FindLiveObjects: 1.553400 ms CreateObjectMapping: 0.916900 ms MarkObjects: 13.021500 ms  DeleteObjects: 2.493700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88424.991384 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f2f828d5628239168a54ecefeddc719') in 0.2064813 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.884868 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1588e80ff636104f4d1569ae858bdc5') in 0.0249896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier5_0.prefab
+  artifactKey: Guid(dfdd39eb39a53d542bb2d995f71c28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier5_0.prefab using Guid(dfdd39eb39a53d542bb2d995f71c28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c23c478237014ef40fdaa7e24eefab0d') in 0.0261907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fae61b0a9025640b1281e57dc4d20a0') in 0.0232185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.747747 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33dcbe7adaa414c793ca84d8f3751eb3') in 0.0261137 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab
+  artifactKey: Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab using Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a7bef65c43c175fcfd359d1f6e65fcf') in 0.0302812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.183988 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cec33754edad7444c3111bc0aaa34a0') in 0.0240314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68a89ca528b44b3ac4784280dfd7eb21') in 0.0277475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '448ff01f199c8db6afa2aa454ee3234a') in 0.0253831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.090362 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c245d9056c4707fbc7a47fd75b0264d') in 0.0253306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000978 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '880c5f6469f2c8cdd273a829b0a4070b') in 0.0290355 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0dde0be04fc97506c0ba7e934b0be5e') in 0.0223001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.367856 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47b8813210f8ca467c9cbf3cd3971408') in 0.026549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab
+  artifactKey: Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab using Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5a1f1d54284cf40d089f90ede0c2708') in 0.0263124 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.604571 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c952b2f352827c022327bef3da5fb5db') in 0.0256376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d112ecb186228753e8ed24c67e486b0') in 0.0271549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.073147 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba0f841a00bc7d57cba6ab4a34787a11') in 0.0291833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab
+  artifactKey: Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab using Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff746f437e3fe01e2193a89e1b4d9484') in 0.0264376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.346776 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cc018d4cab8ca801818d868dfbb5071') in 0.0248798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab
+  artifactKey: Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab using Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '609f021e51b68042116b54172788d4e5') in 0.0249637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.980712 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f13bef4ddcc435ac4ade75dce6d97a90') in 0.0262385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f04e03fea4bafeac1121a2386780a9bb') in 0.027879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2303691f3371960226dcb8be6c2525b9') in 0.0235962 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.707866 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f13940f2a645b2f5c115c02c2ea8fefb') in 0.025966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce765542ad8d2435604da5e15a0c07ee') in 0.031278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.553330 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c6e661fec0e9066b0afc4a6f48ea749') in 0.0254431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37868c011a3c26fa81c6e6a987d9bc25') in 0.0267977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ae40d6f73606f92ce040ce98e3b886c') in 0.0271973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.836457 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd12c02b867ebb4c97e0200047d6e9903') in 0.0290545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cbeb1b2032ade9468f64d1e33038930') in 0.0285781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a7da011a829dc67fe225da157cad03f0') in 0.0271483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.469801 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '388e4acbb84c596734c8b49ec9580873') in 0.0260879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '297876ce8dbfa699a826fbd27c84f253') in 0.0286674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7cfd7ada4aa9c6a20d6e91c5872ee71f') in 0.0239678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.275303 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '216a862f25e5f76ad2fa68196f768d3e') in 0.0279718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab
+  artifactKey: Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier_blue.prefab using Guid(ed4381e4e935c90418ef425eb0a648d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90249a7f798348e3782506d919b36d5b') in 0.0266873 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '540d74cafb6c40af473770184f087ef8') in 0.0242109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.639678 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab
+  artifactKey: Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier4_0.prefab using Guid(fd8a2b4399c2d8d4bb82edb11d847be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fde7183536e6c870971197b6c50a196') in 0.0267491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab
+  artifactKey: Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab using Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58ae01b0a3114ee88db2176a304bc3cd') in 0.0240177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.667669 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab
+  artifactKey: Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab using Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ae46a80085e7c58793acbeeb01c1cc2') in 0.0290182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab
+  artifactKey: Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab using Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '138efd0f3051304a845319f199d2d272') in 0.026299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.044910 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab
+  artifactKey: Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab using Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd16474ec3a2a87ff28c7428af341ea2e') in 0.0241008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab
+  artifactKey: Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab using Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0716191f9a4cba21706d35afff4882a4') in 0.0240413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8b9f66b0fad4c949b7753b1fe272b9d') in 0.0243425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.771154 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab
+  artifactKey: Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab using Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adca654cb3640ba8786390b787132f54') in 0.0426429 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab
+  artifactKey: Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier2_0.prefab using Guid(bf0791756007781448d87c1680e8a619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec4abb191c60fdc64cd16b3071360350') in 0.0365989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484866 seconds.
+  path: Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab
+  artifactKey: Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/HorizontalBarrier5_0.prefab using Guid(8499a30cc1236ed4fbcdf724f7ffa60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fdc387f490bb22356e3dd69cda8e9ba') in 0.0228333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier5_0.prefab
+  artifactKey: Guid(dfdd39eb39a53d542bb2d995f71c28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier5_0.prefab using Guid(dfdd39eb39a53d542bb2d995f71c28b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b552f954babd4f48990fc78b5594a4b') in 0.0267872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab
+  artifactKey: Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/VerticalBarrier3_0.prefab using Guid(b56e033bba0b5954ea7c6f7be9e68839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ade41c2465aea4805344b3866b28519') in 0.0214407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.448 seconds
+Refreshing native plugins compatible for Editor in 4.33 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.317 seconds
+Domain Reload Profiling: 2765ms
+	BeginReloadAssembly (429ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (90ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (37ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (823ms)
+		LoadAssemblies (725ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (346ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (317ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1318ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1020ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (236ms)
+			ProcessInitializeOnLoadAttributes (656ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Refreshing native plugins compatible for Editor in 23.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4356 unused Assets / (1.7 MB). Loaded Objects now: 4879.
+Memory consumption went from 93.4 MB to 91.7 MB.
+Total: 24.562700 ms (FindLiveObjects: 0.930200 ms CreateObjectMapping: 0.504800 ms MarkObjects: 19.455900 ms  DeleteObjects: 3.669500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 84.506770 seconds.
+  path: Assets/Prefabs/Enviroment/poolmat_0.prefab
+  artifactKey: Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enviroment/poolmat_0.prefab using Guid(9a6ff90c04e58e442aa9f89dbd34978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2fde77e3ce9ae4978d74670b5a6c4bf') in 0.1707165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.766725 seconds.
+  path: Assets/Sprites/Player/idle_right.png
+  artifactKey: Guid(538da2ccc5476eb4cbcf7ca109cec370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_right.png using Guid(538da2ccc5476eb4cbcf7ca109cec370) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc393d126841b84f58e8fe3d5b7d2730') in 0.2457179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001057 seconds.
+  path: Assets/Sprites/Player/jump_side_right.png
+  artifactKey: Guid(21ffa7720fc14a848916f4d9404d39e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/jump_side_right.png using Guid(21ffa7720fc14a848916f4d9404d39e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0555cc15c2df174373a8877a148f30f') in 0.0444011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/Sprites/Player/jump_facing.png
+  artifactKey: Guid(ea0c48e5db39d7b4f84bae047cfb136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/jump_facing.png using Guid(ea0c48e5db39d7b4f84bae047cfb136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '270dded1703bb212c4b3fbadace49a15') in 0.0450306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Sprites/Player/jumpforwarddenied.png
+  artifactKey: Guid(a7252c23eae138d45965305d06d695d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/jumpforwarddenied.png using Guid(a7252c23eae138d45965305d06d695d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d5ddeb6d95687519e5be60a255e6a10') in 0.0295148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

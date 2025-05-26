@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4305491174801214562
+--- !u!1 &5603537684376919103
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,37 +8,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 852307788096240328}
-  - component: {fileID: 6834116076935989240}
+  - component: {fileID: 6453107812525029860}
+  - component: {fileID: 6761203221762039264}
+  - component: {fileID: 6244088830936048540}
   m_Layer: 0
-  m_Name: HorizontalBarrier1_0
+  m_Name: poolmat_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &852307788096240328
+--- !u!4 &6453107812525029860
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4305491174801214562}
+  m_GameObject: {fileID: 5603537684376919103}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.5, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 6540668139423104863}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &6834116076935989240
+--- !u!212 &6761203221762039264
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4305491174801214562}
+  m_GameObject: {fileID: 5603537684376919103}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -76,46 +77,42 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 451508137, guid: fe723b35bbea82643a7bfb2ed6627d85, type: 3}
+  m_Sprite: {fileID: 1713807286, guid: aa74fc86dd5456a45befdc353c800360, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 0.25}
+  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &4407423519808770012
-GameObject:
+--- !u!114 &6244088830936048540
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6540668139423104863}
-  m_Layer: 0
-  m_Name: HorizontalBarrier_blue
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6540668139423104863
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4407423519808770012}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.72, y: 0.62158686, z: 0.04767061}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 852307788096240328}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 5603537684376919103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3576977f0c092f04faf7874ac46b481c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upNeighbours:
+  - {fileID: 702644308812310429, guid: 30b6944c1dfacdc4ba92f4a29dfc2826, type: 3}
+  - {fileID: 6244088830936048540}
+  - {fileID: 4187020937970325064, guid: d6e650186b1685145aa2bdea3907131c, type: 3}
+  downNeighbours:
+  - {fileID: 702644308812310429, guid: 30b6944c1dfacdc4ba92f4a29dfc2826, type: 3}
+  - {fileID: 6244088830936048540}
+  - {fileID: 4187020937970325064, guid: d6e650186b1685145aa2bdea3907131c, type: 3}
+  leftNeighbours:
+  - {fileID: 702644308812310429, guid: 30b6944c1dfacdc4ba92f4a29dfc2826, type: 3}
+  - {fileID: 6244088830936048540}
+  - {fileID: 4187020937970325064, guid: d6e650186b1685145aa2bdea3907131c, type: 3}
+  rightNeighbours:
+  - {fileID: 702644308812310429, guid: 30b6944c1dfacdc4ba92f4a29dfc2826, type: 3}
+  - {fileID: 6244088830936048540}
+  - {fileID: 4187020937970325064, guid: d6e650186b1685145aa2bdea3907131c, type: 3}
